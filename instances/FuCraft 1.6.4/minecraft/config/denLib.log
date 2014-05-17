@@ -911,10 +911,6 @@ Ore: dyeBrown
 Fluid: liquiddna
 Fluid: life essence
 Ore: oreCoal
-Ore: circuitBasic
-Ore: circuitAdvanced
-Ore: circuitElite
-Ore: wrench
 Ore: blockMarble
 Ore: blockLimestone
 Ore: blockConcrete
@@ -1012,6 +1008,10 @@ Ore: treeSapling
 Ore: treeLeaves
 Ore: treeLeaves
 Ore: plankWood
+Ore: circuitBasic
+Ore: circuitAdvanced
+Ore: circuitElite
+Ore: wrench
 Ore: componentWiring
 Ore: componentSolenoid
 Ore: componentServo
